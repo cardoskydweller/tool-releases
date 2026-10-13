@@ -30,6 +30,21 @@
       "commit": "4cf6258",
       "kind": "binary",
       "version": "0.1.0"
+    },
+    "verlint": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "48d43c7398e92dcd049df96dd476fc2d7ab02534e588cc4712420cc1991cf109",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/verlint-v0.3.2/verlint-0.3.2-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "115b57dff94e051a15d797d63edb19f38183da075add900b622abfa5c7d7e254",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/verlint-v0.3.2/verlint-0.3.2-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "3a85080",
+      "kind": "binary",
+      "version": "0.3.2"
     }
   }
 }
