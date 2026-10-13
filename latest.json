@@ -175,6 +175,17 @@
       "kind": "binary",
       "version": "0.2.0"
     },
+    "tools-check": {
+      "assets": {
+        "any": {
+          "sha256": "6c46e4debea18dea1a4eef0c91eb165ced126bd593768747d3e9b8c695dd57b9",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tools-check-v1.0.0/tools-check-1.0.0-any"
+        }
+      },
+      "commit": "cefe1d0",
+      "kind": "script",
+      "version": "1.0.0"
+    },
     "toolship": {
       "assets": {
         "aarch64-apple-darwin": {
