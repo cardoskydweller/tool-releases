@@ -16,6 +16,21 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "board": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "aa9ba6af2225ea55887db43acae8e9bf7e406de030644c97a24f2c75786ee573",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/board-v0.2.0/board-0.2.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "6d812182dabf6759fa80f933f866b54468e567b42f2d74bc60dcc0afa6578c33",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/board-v0.2.0/board-0.2.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "fdf3544",
+      "kind": "binary",
+      "version": "0.2.0"
+    },
     "ciquota": {
       "assets": {
         "any": {
