@@ -149,6 +149,17 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "svc": {
+      "assets": {
+        "any": {
+          "sha256": "a3e3c7282b285933521da84eb6d87e51f858ff6782a4ec90d2ed8848ea4997b8",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/svc-v0.1.0/svc-0.1.0-any"
+        }
+      },
+      "commit": "134c17e",
+      "kind": "script",
+      "version": "0.1.0"
+    },
     "tools": {
       "assets": {
         "aarch64-apple-darwin": {
