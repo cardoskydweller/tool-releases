@@ -217,6 +217,21 @@
       "kind": "binary",
       "version": "0.4.0"
     },
+    "mergebump": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "b612fdb4ee37d4ba3f7c8f11cf330ecc31f715b2fa5f4d93f79626429795e340",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/mergebump-v0.1.0/mergebump-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "5af11e4886199b8b158b0ff22c5f1561d6a30af4ca322cd090e03fc833257edb",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/mergebump-v0.1.0/mergebump-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "7c8ebae",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "planlint": {
       "assets": {
         "aarch64-apple-darwin": {
