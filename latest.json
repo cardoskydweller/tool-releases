@@ -127,6 +127,17 @@
       "kind": "binary",
       "version": "0.4.1"
     },
+    "said": {
+      "assets": {
+        "any": {
+          "sha256": "b55c2cf8eb031873ef6e3e283a0fef6a30009af8a4a96d466009ea54b3b4b87d",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/said-v1.0.0/said-1.0.0-any"
+        }
+      },
+      "commit": "a88da2c",
+      "kind": "script",
+      "version": "1.0.0"
+    },
     "tools": {
       "assets": {
         "aarch64-apple-darwin": {
