@@ -138,6 +138,17 @@
       "kind": "script",
       "version": "1.0.0"
     },
+    "sqlx-resync": {
+      "assets": {
+        "any": {
+          "sha256": "d1a1abd40d0a422368ac1cdebc8b88b3e7bac37d5b3ddd357ae2f00d4b443561",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/sqlx-resync-v0.1.0/sqlx-resync-0.1.0-any"
+        }
+      },
+      "commit": "3bf7e17",
+      "kind": "script",
+      "version": "0.1.0"
+    },
     "tools": {
       "assets": {
         "aarch64-apple-darwin": {
