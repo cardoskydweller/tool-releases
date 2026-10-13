@@ -49,6 +49,17 @@
       "kind": "binary",
       "version": "0.2.0"
     },
+    "fresh": {
+      "assets": {
+        "any": {
+          "sha256": "e1f77818e09720225f0710b36a73b9f9244171e6c8131f2aa6d97179d4456738",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fresh-v0.1.0/fresh-0.1.0-any"
+        }
+      },
+      "commit": "3b08d8e",
+      "kind": "script",
+      "version": "0.1.0"
+    },
     "ledger": {
       "assets": {
         "aarch64-apple-darwin": {
