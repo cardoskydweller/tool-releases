@@ -1,6 +1,17 @@
 {
   "format": 1,
   "tools": {
+    "ciquota": {
+      "assets": {
+        "any": {
+          "sha256": "bc0c9fbc88f4cfdc0cd2fc31c173684c183ceac4b7bc83df8dd026a4ca931b45",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciquota-v0.1.0/ciquota-0.1.0-any"
+        }
+      },
+      "commit": "55f48ca",
+      "kind": "script",
+      "version": "0.1.0"
+    },
     "fixlint": {
       "assets": {
         "aarch64-apple-darwin": {
