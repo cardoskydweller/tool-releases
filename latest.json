@@ -31,6 +31,21 @@
       "kind": "binary",
       "version": "0.2.0"
     },
+    "budget": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "144d79b079d43f515d30cdd0c65c6b82cc2666ed1d0c3f22bc6e334a450d1cd3",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/budget-v0.1.0/budget-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "8aa613d7047a9742b2f7cc32eb1f57fd9342feb6edf21c8e6084f109b70c4588",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/budget-v0.1.0/budget-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "7070616",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "ciquota": {
       "assets": {
         "any": {
