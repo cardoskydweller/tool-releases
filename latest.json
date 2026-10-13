@@ -1,6 +1,21 @@
 {
   "format": 1,
   "tools": {
+    "apiprobe": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "1b67a9ed6940c2a4b5a7ca6d3eab77d5a4ac3b7e5f58f95a3a031279e1313b1b",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/apiprobe-v0.1.0/apiprobe-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "cf23b1ae6f176e199d1133060b7635df02f679060629a7052e041746e347c59c",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/apiprobe-v0.1.0/apiprobe-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "89007df",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "ciquota": {
       "assets": {
         "any": {
