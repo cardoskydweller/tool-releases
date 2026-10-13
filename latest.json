@@ -31,6 +31,21 @@
       "kind": "binary",
       "version": "0.5.0"
     },
+    "planlint": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "693ba74ed50e120547df1a8056e89a4a5384cfe72e8a030b7a2a656ee2cc2935",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/planlint-v0.4.1/planlint-0.4.1-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "07cffd372ef24508394009493b2ab8fdf737f55fd44530f6a31a7e6506124d72",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/planlint-v0.4.1/planlint-0.4.1-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "d5d7854",
+      "kind": "binary",
+      "version": "0.4.1"
+    },
     "toolship": {
       "assets": {
         "aarch64-apple-darwin": {
