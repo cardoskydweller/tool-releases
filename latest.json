@@ -60,6 +60,17 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "gh-as": {
+      "assets": {
+        "any": {
+          "sha256": "1ef93e52af0bb6aad9637601ee17204f2fd45c0593109b489146417d0088ebce",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/gh-as-v0.2.3/gh-as-0.2.3-any"
+        }
+      },
+      "commit": "689cfda",
+      "kind": "script",
+      "version": "0.2.3"
+    },
     "ledger": {
       "assets": {
         "aarch64-apple-darwin": {
