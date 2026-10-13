@@ -109,6 +109,21 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "fake-apns": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "f8d97bf58030704fff1dd8632c2b797506d998d1483517d3f073cdb3661a666f",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fake-apns-v0.2.0/fake-apns-0.2.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "ec3405a1da8bcc2fdbfa146ee073bca7d7dd94ca97a78ba267dda65d84fee26e",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fake-apns-v0.2.0/fake-apns-0.2.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "28b3b36",
+      "kind": "binary",
+      "version": "0.2.0"
+    },
     "fixlint": {
       "assets": {
         "aarch64-apple-darwin": {
