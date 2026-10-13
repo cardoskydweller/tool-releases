@@ -31,6 +31,21 @@
       "kind": "binary",
       "version": "0.5.0"
     },
+    "maplint": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "9e1f5d6aefd4e29d161f77712a57e7f46f0bcc10097a61ae76009dcfb0d23962",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/maplint-v0.4.0/maplint-0.4.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "3f0423ddb6b15710385fa48062470412e97386e77d9a0268ef85ed71f3d9402a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/maplint-v0.4.0/maplint-0.4.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "7e76dbb",
+      "kind": "binary",
+      "version": "0.4.0"
+    },
     "planlint": {
       "assets": {
         "aarch64-apple-darwin": {
