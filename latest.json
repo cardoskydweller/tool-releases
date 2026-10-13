@@ -46,6 +46,21 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "check": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "df6b06e6d95bb15ccd690798fd4a70294863d22f95b6fef3954dadf30c1ee374",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/check-v0.8.0/check-0.8.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "a07399506cfbd7b6ae333385f6d114eb1e109df85b338a9d89930cec625fac1c",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/check-v0.8.0/check-0.8.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "5c1ef2a",
+      "kind": "binary",
+      "version": "0.8.0"
+    },
     "ciquota": {
       "assets": {
         "any": {
