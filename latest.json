@@ -12,6 +12,17 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "ciwatch": {
+      "assets": {
+        "any": {
+          "sha256": "cb1b3ddec6485f8b5083b0681d3f3029bbdb3ba3ac0c00376f2f464834fd06c4",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciwatch-v0.1.0/ciwatch-0.1.0-any"
+        }
+      },
+      "commit": "52a3305",
+      "kind": "script",
+      "version": "0.1.0"
+    },
     "fixlint": {
       "assets": {
         "aarch64-apple-darwin": {
