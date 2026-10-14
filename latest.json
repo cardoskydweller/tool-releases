@@ -299,6 +299,17 @@
       "kind": "binary",
       "version": "0.4.1"
     },
+    "printpdf": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "d035f9ba090d28c8f8d1f1a42310e53ae2702bb07d82f4670e845a9ad52dfa72",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/printpdf-v0.1.0/printpdf-0.1.0-aarch64-apple-darwin"
+        }
+      },
+      "commit": "2018de3",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "recall": {
       "assets": {
         "aarch64-apple-darwin": {
