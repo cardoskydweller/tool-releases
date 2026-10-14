@@ -1,6 +1,21 @@
 {
   "format": 1,
   "tools": {
+    "anadelta": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "1183fafbd9c550b075fc6f7956ee763f30441d9e71d2018f72257cd1517973f6",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/anadelta-v0.1.0/anadelta-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "1937a680cd52086f6ab4e689ad763fd8791e31635ced4b12dfb36137724200f6",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/anadelta-v0.1.0/anadelta-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "6c2048c",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "apiprobe": {
       "assets": {
         "aarch64-apple-darwin": {
