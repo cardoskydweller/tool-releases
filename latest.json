@@ -232,6 +232,21 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "milestone": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "a46891b31d3cd3006245ddceac3c86cc4a9939935aeeeba141d16bd6f2341702",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/milestone-v0.2.0/milestone-0.2.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "88cdfa1a452b239024a4714832b11a11e8e527e17642db1ca70f127d7b105553",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/milestone-v0.2.0/milestone-0.2.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "f2841b6",
+      "kind": "binary",
+      "version": "0.2.0"
+    },
     "planlint": {
       "assets": {
         "aarch64-apple-darwin": {
