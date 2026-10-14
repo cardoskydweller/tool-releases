@@ -307,6 +307,21 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "relcheck": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "1a0b95f02ea8a17aa4b7cd9ad3162f74a103d95e56fef59dc254e2191ef7a532",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/relcheck-v0.3.0/relcheck-0.3.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "c5414555deeb4042608b35f58f2da88b9e352cd2e5753f9bfdedc14981829a66",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/relcheck-v0.3.0/relcheck-0.3.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "7b56214",
+      "kind": "binary",
+      "version": "0.3.0"
+    },
     "revpack": {
       "assets": {
         "aarch64-apple-darwin": {
