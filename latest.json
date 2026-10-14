@@ -168,13 +168,13 @@
     "fleet": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "71c305f30f1edeab72266790b5f91720d1aadcfa87c2bfaedd72f3a64b7f6b5a",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fleet-v0.5.0/fleet-0.5.0-aarch64-apple-darwin"
+          "sha256": "41bc16d32d7e48652fdb1c4e3683ed6cf8a12d7e2de0982bc176f3edf3aae990",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fleet-v0.6.0/fleet-0.6.0-aarch64-apple-darwin"
         }
       },
-      "commit": "7f986d8",
+      "commit": "6cff013",
       "kind": "binary",
-      "version": "0.5.0"
+      "version": "0.6.0"
     },
     "fresh": {
       "assets": {
