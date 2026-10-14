@@ -348,6 +348,21 @@
       "kind": "script",
       "version": "1.0.0"
     },
+    "signcheck": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "51f3103ca0aaf895583f53e1061270859b044ac55915c6d95c8a8950e1d2f3b6",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/signcheck-v0.1.0/signcheck-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "815b1cbfd00ea6858965d59275076be6108b6f7f5e3560979d20c424e4e022d8",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/signcheck-v0.1.0/signcheck-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "03fa879",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "sqlx-resync": {
       "assets": {
         "any": {
