@@ -448,6 +448,21 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "stelint": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "70d9100bdf2cfe77074ed6323298217c38d17a80d8752412b15470456a1f0fef",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stelint-v0.1.0/stelint-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "59918bb1664e24cec7064be6e5acd9b14bc111d16f898392458450b1d2eabcd6",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stelint-v0.1.0/stelint-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "281317e",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "steplint": {
       "assets": {
         "aarch64-apple-darwin": {
