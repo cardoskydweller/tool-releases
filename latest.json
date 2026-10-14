@@ -374,6 +374,21 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "steplint": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "92e6cbddaac48d53152a48fc3df28908a35cd9139cc563f9d28793db81a03762",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/steplint-v0.1.0/steplint-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "93446b4bc586626ad5407e064f4d365ec2bf823a2949a11b4fe2d7018e59b89b",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/steplint-v0.1.0/steplint-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "9d3bbd9",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "svc": {
       "assets": {
         "any": {
