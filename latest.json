@@ -269,6 +269,21 @@
       "kind": "binary",
       "version": "0.2.0"
     },
+    "optrace": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "509a204292eef57ccadf21fcf79deef1f4435aea97dcfb977d54a8bba16742e3",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/optrace-v0.3.0/optrace-0.3.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "ea35b790ca687023b5a0abb9aa8ea999199be482e561bad5b17a48532a22f6c7",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/optrace-v0.3.0/optrace-0.3.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "0bb0f35",
+      "kind": "binary",
+      "version": "0.3.0"
+    },
     "planlint": {
       "assets": {
         "aarch64-apple-darwin": {
