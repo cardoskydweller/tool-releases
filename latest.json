@@ -292,6 +292,21 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "refcap": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "07e3fd268d8f5fbcc6d6b44abf5673ecdf42f64aca7c67d5b098ad600b3c4d33",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/refcap-v0.1.0/refcap-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "cd5ad9c1531582f3842b79b4973138daa1f4f7e2513e13dac4415bacc659bbb7",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/refcap-v0.1.0/refcap-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "47e5269",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "said": {
       "assets": {
         "any": {
