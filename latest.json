@@ -262,6 +262,21 @@
       "kind": "binary",
       "version": "0.4.1"
     },
+    "recall": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "eac531c66a55e42146ea8906e081e9408457b1eeb1508ebd9f50d4a1529060e8",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/recall-v0.4.0/recall-0.4.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "e7e95152bb21ee26cd6bc914c9d5cd6a2f524a86c4d3c14a48cf151753871fe5",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/recall-v0.4.0/recall-0.4.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "2cde4ae",
+      "kind": "binary",
+      "version": "0.4.0"
+    },
     "said": {
       "assets": {
         "any": {
