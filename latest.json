@@ -504,21 +504,6 @@
       "kind": "binary",
       "version": "0.3.1"
     },
-    "trace": {
-      "assets": {
-        "aarch64-apple-darwin": {
-          "sha256": "cdf5c7036713da623d1f7f220d32d52be52be880ccf4e03930f4db56779d7639",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/trace-v0.2.0/trace-0.2.0-aarch64-apple-darwin"
-        },
-        "x86_64-unknown-linux-musl": {
-          "sha256": "9ec794c303043d60c44623f39d5ae4fcce279cdb3fe9efaf512f0e809ca0754a",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/trace-v0.2.0/trace-0.2.0-x86_64-unknown-linux-musl"
-        }
-      },
-      "commit": "06dd49d",
-      "kind": "binary",
-      "version": "0.2.0"
-    },
     "verlint": {
       "assets": {
         "aarch64-apple-darwin": {
