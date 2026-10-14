@@ -307,6 +307,21 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "revpack": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "be1ef847c928d13a4603d0124b1711ff5ea7f08e8cd6e91eea517825a770a234",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/revpack-v0.2.0/revpack-0.2.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "36a65c50d2023de72dff4599ec8cb488c526d2077af8b3e8a96a6e01ea7214a9",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/revpack-v0.2.0/revpack-0.2.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "9bc136c",
+      "kind": "binary",
+      "version": "0.2.0"
+    },
     "said": {
       "assets": {
         "any": {
