@@ -109,6 +109,17 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "diskmap": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "d25199aea601a8bc7d1944b9154d920366315416c6734a087cf45b502f80421a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/diskmap-v0.1.0/diskmap-0.1.0-aarch64-apple-darwin"
+        }
+      },
+      "commit": "486336d",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "fake-apns": {
       "assets": {
         "aarch64-apple-darwin": {
