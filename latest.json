@@ -534,6 +534,17 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "wt": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "596d3d794bfa6365d71b26adb02a7671948bcf3425b8564055c8140c266bc208",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/wt-v0.9.0/wt-0.9.0-aarch64-apple-darwin"
+        }
+      },
+      "commit": "e43e4eb",
+      "kind": "binary",
+      "version": "0.9.0"
+    },
     "zshguard": {
       "assets": {
         "aarch64-apple-darwin": {
