@@ -322,6 +322,21 @@
       "kind": "binary",
       "version": "0.2.0"
     },
+    "ruling": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "7052670803468169a862c2bd0fc60efde63447187ea4770ef35c436c60b07400",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ruling-v0.2.0/ruling-0.2.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "9dd38e751b0248d362cf01d09cc54b50931ebb684ec8ac1fe810e65962872039",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ruling-v0.2.0/ruling-0.2.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "13b66bc",
+      "kind": "binary",
+      "version": "0.2.0"
+    },
     "said": {
       "assets": {
         "any": {
