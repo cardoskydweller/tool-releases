@@ -307,6 +307,17 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "regen-mocks": {
+      "assets": {
+        "any": {
+          "sha256": "ee2ed81d19e36414eea9eb451df3ff2fb369e870b8900c3096905e95809eeee0",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/regen-mocks-v0.2.1/regen-mocks-0.2.1-any"
+        }
+      },
+      "commit": "0176271",
+      "kind": "script",
+      "version": "0.2.1"
+    },
     "relcheck": {
       "assets": {
         "aarch64-apple-darwin": {
