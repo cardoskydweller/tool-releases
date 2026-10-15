@@ -600,17 +600,17 @@
     "zshguard": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "c0d53bca02b77128eeb40fe0da470d4fef86fca86d4b2744eb7692a548c10408",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/zshguard-v0.4.0/zshguard-0.4.0-aarch64-apple-darwin"
+          "sha256": "9af9f1641696fa6a8d506a220d9f234c838b389841bd87def466f540f6e66dac",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/zshguard-v0.5.0/zshguard-0.5.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "885128d5b4fd4eb384740f1d984c5e3667e85b238ae7aeab6c3981eb2c188196",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/zshguard-v0.4.0/zshguard-0.4.0-x86_64-unknown-linux-musl"
+          "sha256": "da401aed6032c094c378fd896039727f1a047dbdc53334c9a3476e377abede82",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/zshguard-v0.5.0/zshguard-0.5.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "eebc9ae",
+      "commit": "23ecde1",
       "kind": "binary",
-      "version": "0.4.0"
+      "version": "0.5.0"
     }
   }
 }
