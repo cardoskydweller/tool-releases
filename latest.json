@@ -578,13 +578,17 @@
     "wt": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "596d3d794bfa6365d71b26adb02a7671948bcf3425b8564055c8140c266bc208",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/wt-v0.9.0/wt-0.9.0-aarch64-apple-darwin"
+          "sha256": "4455863ecb8d7e3af29f32f83591152dde6f65d8417f58194c625f555b920bf3",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/wt-v0.9.1/wt-0.9.1-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "9fb5a7100c2bf98f8c2ea2043da4f84916a0107ad16cd88eea537b5085cceaed",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/wt-v0.9.1/wt-0.9.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "e43e4eb",
+      "commit": "16d139c",
       "kind": "binary",
-      "version": "0.9.0"
+      "version": "0.9.1"
     },
     "xctest-run": {
       "assets": {
