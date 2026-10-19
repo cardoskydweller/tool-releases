@@ -343,17 +343,17 @@
     "redrun": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "22ed45df3396a56aa9611b8d423dad2135697bc157d421e5b41244c2bd67b028",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/redrun-v0.4.0/redrun-0.4.0-aarch64-apple-darwin"
+          "sha256": "325a989920d1a312d227dd8795f57103878aad82ef5ec54ce6d352f1f9b3bc7b",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/redrun-v0.4.1/redrun-0.4.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "5d92beb1b4888960b4ad5755bfbf38d8c1b0260172663f3e8f30947797ef2297",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/redrun-v0.4.0/redrun-0.4.0-x86_64-unknown-linux-musl"
+          "sha256": "3acafe728c9cb05d1c1a34c6ba863f1f338d759402c6c649b867c703c07be463",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/redrun-v0.4.1/redrun-0.4.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "78e948a",
+      "commit": "e874661",
       "kind": "binary",
-      "version": "0.4.0"
+      "version": "0.4.1"
     },
     "refcap": {
       "assets": {
