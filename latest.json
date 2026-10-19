@@ -34,17 +34,17 @@
     "board": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "3e5622cb35e4dfe098e1d841c889c752b93abd54e7c9cc556a98a72b49e500f7",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/board-v0.5.1/board-0.5.1-aarch64-apple-darwin"
+          "sha256": "7c1ab7004def9d20a52c4e156eae68056b00277f48d32e7ef1e881568cd21f33",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/board-v0.5.2/board-0.5.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "2fee0a56502efb76e0f4723b8928f2123f9aa97a060186e34c1376fcf83717a4",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/board-v0.5.1/board-0.5.1-x86_64-unknown-linux-musl"
+          "sha256": "84a107ed188e9b2315da873cec48e3b1e4419267a462a4d137ad72043d315f54",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/board-v0.5.2/board-0.5.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "fc42d38",
+      "commit": "d4deb3c",
       "kind": "binary",
-      "version": "0.5.1"
+      "version": "0.5.2"
     },
     "budget": {
       "assets": {
