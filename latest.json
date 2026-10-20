@@ -575,6 +575,21 @@
       "kind": "binary",
       "version": "0.5.0"
     },
+    "twl": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "edd4c521a625d1cebf787a252805acf3df71378fb0707fcffdb06d43d0902727",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/twl-v0.1.0/twl-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "04ac62e478de883e4de11751d0a141b62c056fd382cd857008693613d70d9e1a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/twl-v0.1.0/twl-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "3421186",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "verlint": {
       "assets": {
         "aarch64-apple-darwin": {
