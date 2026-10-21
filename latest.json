@@ -231,17 +231,17 @@
     "ledger": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "293f55b0996cd7fe05aa6779e4f230bad37ae0fd060ebcdbd78cd7b380b18b1c",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ledger-v0.10.1/ledger-0.10.1-aarch64-apple-darwin"
+          "sha256": "56d7405b0f84287b23a84edb68126c27254fc2d5a206e9489c41fb29b0d0ad50",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ledger-v0.11.0/ledger-0.11.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "ae69731e460e502837967d9010cd130abab7536e38f5fe21c5115981255942e7",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ledger-v0.10.1/ledger-0.10.1-x86_64-unknown-linux-musl"
+          "sha256": "8576242f8503b244f1a6ea8f714b6414166bdf810f44584122362fe97847cd16",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ledger-v0.11.0/ledger-0.11.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "a1ed156",
+      "commit": "7b5d39c",
       "kind": "binary",
-      "version": "0.10.1"
+      "version": "0.11.0"
     },
     "loopenv": {
       "assets": {
