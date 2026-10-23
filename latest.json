@@ -46,6 +46,21 @@
       "kind": "binary",
       "version": "0.6.1"
     },
+    "brazewire": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "4509f8d0db2daec67d7d4ed05f93554360719ae1eeb0e68e4225a1e7be3a6fb8",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/brazewire-v0.1.0/brazewire-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "aaaed70734c2a7025f0aeba20d2b5c9ac5c42ee104311ad75c2c5ed796dd0af2",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/brazewire-v0.1.0/brazewire-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "fccec10",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "budget": {
       "assets": {
         "aarch64-apple-darwin": {
