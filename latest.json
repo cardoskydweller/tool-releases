@@ -332,17 +332,17 @@
     "optrace": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "509a204292eef57ccadf21fcf79deef1f4435aea97dcfb977d54a8bba16742e3",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/optrace-v0.3.0/optrace-0.3.0-aarch64-apple-darwin"
+          "sha256": "2460c35c3182451278f14d73c5ca0dc939a8f0dc1b5f8162102f553656c8058a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/optrace-v0.4.0/optrace-0.4.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "ea35b790ca687023b5a0abb9aa8ea999199be482e561bad5b17a48532a22f6c7",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/optrace-v0.3.0/optrace-0.3.0-x86_64-unknown-linux-musl"
+          "sha256": "d928ecbc5e09075864d57b2bb79bfc0fbd18a4548eb7c9a726da13cd486b95b7",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/optrace-v0.4.0/optrace-0.4.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "0bb0f35",
+      "commit": "f0bc024",
       "kind": "binary",
-      "version": "0.3.0"
+      "version": "0.4.0"
     },
     "planlint": {
       "assets": {
