@@ -232,6 +232,21 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "funcloop": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "b921545875d2f7b126b95b75a1b124bd3792a2628b7c038b32eb28e9d10b318a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/funcloop-v0.1.0/funcloop-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "640f304a78acab1b8261a77a98f2e764d2ccc492dd9350cea73b8c89cba3467e",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/funcloop-v0.1.0/funcloop-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "ac64746",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "gh-as": {
       "assets": {
         "any": {
