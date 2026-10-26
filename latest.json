@@ -311,6 +311,21 @@
       "kind": "binary",
       "version": "0.6.0"
     },
+    "forktest": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "796567e0fb2761e1ba92e883192512293e2c74995a30d69edde64c1d6b1f3871",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/forktest-v0.1.0/forktest-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "d6c5a7cc97ed8fdf5378b42047bbf3285aedb9f3f1beb6331d3ba2a7c3c16853",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/forktest-v0.1.0/forktest-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "bdc9306",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "fresh": {
       "assets": {
         "any": {
