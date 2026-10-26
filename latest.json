@@ -16,6 +16,21 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "analyzediff": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "1052992ea0a261e6436cfc747a0548cb920005a5dea06ea178a06e0c8a923664",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/analyzediff-v0.1.0/analyzediff-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "4a11c6c5b7652de6fe9c2b8ce25d8dd22582f5ac90bfeeebad65d8562a5c2302",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/analyzediff-v0.1.0/analyzediff-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "2eb4a1e",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "apiprobe": {
       "assets": {
         "aarch64-apple-darwin": {
