@@ -419,6 +419,21 @@
       "kind": "binary",
       "version": "0.2.0"
     },
+    "nugetprune": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "58ddb1ba2beda3327510e77d346535639a25477191d819c611ab3c78cb9f8ddd",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/nugetprune-v0.1.0/nugetprune-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "5bf2c0b492e60e105a779bd69c4ba1d98361e220bc40112364f0a4ea5035dd07",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/nugetprune-v0.1.0/nugetprune-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "d31d40a",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "optrace": {
       "assets": {
         "aarch64-apple-darwin": {
