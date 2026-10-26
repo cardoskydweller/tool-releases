@@ -173,6 +173,21 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "depcheck": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "eb15f97d56818f20f430a0fef2647f69ee25fd936740950e24e69514852c687c",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/depcheck-v0.1.0/depcheck-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "1415e7995b19fe2cfdbe9f6df2282a81608b5d82d1b8f383c1b60fd0b07697d8",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/depcheck-v0.1.0/depcheck-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "ee0cd06",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "dev": {
       "assets": {
         "aarch64-apple-darwin": {
