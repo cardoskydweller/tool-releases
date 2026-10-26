@@ -143,6 +143,21 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "cosmoshape": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "2e93c7eacac4af27e312a36ab85581c4df604313b1b4c3ec2569df4bef3547b1",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cosmoshape-v0.1.0/cosmoshape-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "7d5f446a5ac9aafb670e6f71302d1b5c848a8fa8774a991c42b82eb5fbdbfec8",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cosmoshape-v0.1.0/cosmoshape-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "e0bab70",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "dbgwire": {
       "assets": {
         "aarch64-apple-darwin": {
