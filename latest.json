@@ -606,6 +606,21 @@
       "kind": "binary",
       "version": "0.2.0"
     },
+    "rulesprobe": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "739fb1a0bcc9d3f5a0a1c92af99099e9ec6945fbcc172cc29dfeb159daee719d",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesprobe-v0.1.0/rulesprobe-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "a225dbe3c11496ef492a275c07f78e2b9855ddab73a4a24c7f0819463cdf868f",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesprobe-v0.1.0/rulesprobe-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "fcbf318",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "ruling": {
       "assets": {
         "aarch64-apple-darwin": {
