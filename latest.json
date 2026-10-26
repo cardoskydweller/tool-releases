@@ -411,17 +411,17 @@
     "loopenv": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "f846265404e18d84a5af10528339db51a160738884ce322268dcbd74e7a09760",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/loopenv-v0.7.0/loopenv-0.7.0-aarch64-apple-darwin"
+          "sha256": "fc23577419f4c360cd984e3c69f27666769f11435a04291fe78fc08f641bdb9b",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/loopenv-v0.8.0/loopenv-0.8.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "0f941f43e5cf2e0e813c3a4725ef0cd8dfc076b05ff123b508c1f7087b7cc5c5",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/loopenv-v0.7.0/loopenv-0.7.0-x86_64-unknown-linux-musl"
+          "sha256": "5f682690d4e85bf0062a5ec4fa74b5ea673f4b9a4914a5bbef3be64ebf6ad5af",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/loopenv-v0.8.0/loopenv-0.8.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "670c655",
+      "commit": "3c75fdc",
       "kind": "binary",
-      "version": "0.7.0"
+      "version": "0.8.0"
     },
     "lumen-device-state": {
       "assets": {
