@@ -91,6 +91,21 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "cdnpick": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "7ac68ab7a608eacbf7e31252a78932f9b6422462f781a6043aa8ebdebf923a53",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cdnpick-v0.1.0/cdnpick-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "e3c4e19132aae54953d709a60e2bac88b055dd75ebb6dfc5b10fafbe63261898",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cdnpick-v0.1.0/cdnpick-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "6016c2c",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "check": {
       "assets": {
         "aarch64-apple-darwin": {
