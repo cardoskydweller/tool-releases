@@ -564,17 +564,17 @@
     "relcheck": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "1840fbcc0178b12075ad8e51c337ad1e73beea9d4eb2341acc0c094cf1a88f5d",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/relcheck-v0.4.0/relcheck-0.4.0-aarch64-apple-darwin"
+          "sha256": "eb1b3b2036450c99577f7d6688b040fece3f42ebb99406b26497deede9ec2ef4",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/relcheck-v0.4.1/relcheck-0.4.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "a311a574e2bf0ddaf46671e013851e254cdaa660d9d716b7b56e122652c2eee0",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/relcheck-v0.4.0/relcheck-0.4.0-x86_64-unknown-linux-musl"
+          "sha256": "d8b8392bc247a7ba6214b955633e9c405d3d4fbb428d0aef81ffb44177c76d89",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/relcheck-v0.4.1/relcheck-0.4.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "3b6f4ee",
+      "commit": "88aa9d6",
       "kind": "binary",
-      "version": "0.4.0"
+      "version": "0.4.1"
     },
     "revpack": {
       "assets": {
