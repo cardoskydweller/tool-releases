@@ -523,17 +523,17 @@
     "recall": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "6ca8ca9c7a46a25849e05841d5c368d4d440678c9b92afef64e72765d9511a18",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/recall-v0.8.0/recall-0.8.0-aarch64-apple-darwin"
+          "sha256": "7c85a0deff8fe80cff372380cf0160b7799db3aeca7317538b509a7270c62964",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/recall-v0.9.0/recall-0.9.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "279acd8bbcdb05261b468963df2f21311672b2449bf64817355f9dda1f740a6c",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/recall-v0.8.0/recall-0.8.0-x86_64-unknown-linux-musl"
+          "sha256": "80db937336953f23c12a016bb1b3cc4f6be4137ac506b6a27550a7660a9a5a35",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/recall-v0.9.0/recall-0.9.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "1e2843f",
+      "commit": "0829de0",
       "kind": "binary",
-      "version": "0.8.0"
+      "version": "0.9.0"
     },
     "redrun": {
       "assets": {
