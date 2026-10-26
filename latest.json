@@ -210,6 +210,21 @@
       "kind": "binary",
       "version": "0.1.0"
     },
+    "docpage": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "e4073ae95db321094e3a6e09fbe51da19594dd7f570d2f3e3bf04f68506b8710",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/docpage-v0.1.0/docpage-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "dd7aff2a3bd43f6f862511a1206a499b0cfa603a9ea794189f894b53f032f688",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/docpage-v0.1.0/docpage-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "ae9c719",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "domainfree": {
       "assets": {
         "aarch64-apple-darwin": {
