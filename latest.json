@@ -285,6 +285,21 @@
       "kind": "binary",
       "version": "0.2.0"
     },
+    "fake-ses": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "8facaa464f07d55965e1394a695690e2b0b97e8a6aac04fde2c93b2909c63bc3",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fake-ses-v0.1.0/fake-ses-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "845ba95827baaf49a078b239f742aef87873787badd157b1cb86dc01de31777a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fake-ses-v0.1.0/fake-ses-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "5087028",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "fixlint": {
       "assets": {
         "aarch64-apple-darwin": {
