@@ -527,13 +527,13 @@
     "printpdf": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "82fe922fbd77c64beebba1aedc61c45505ca9f9c90467af6a50b21e4406511de",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/printpdf-v0.3.0/printpdf-0.3.0-aarch64-apple-darwin"
+          "sha256": "09784a9dd2acae81b3ff71b4bc571b016dc3611fe6d54ef45e0cd798fece2dd2",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/printpdf-v0.4.0/printpdf-0.4.0-aarch64-apple-darwin"
         }
       },
-      "commit": "5005b07",
+      "commit": "2f9abbc",
       "kind": "binary",
-      "version": "0.3.0"
+      "version": "0.4.0"
     },
     "recall": {
       "assets": {
