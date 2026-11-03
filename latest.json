@@ -143,6 +143,21 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "contrast": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "33d8dd1541328da84f7b479f9ac36dd1319bf9d71ad1d0c62184d54cd9490495",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/contrast-v0.1.0/contrast-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "1e6a5d85e71778b044909312f135d0a631083b8bbefe0cbd5a7890f6c9227745",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/contrast-v0.1.0/contrast-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "da3d994",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "cosmoshape": {
       "assets": {
         "aarch64-apple-darwin": {
