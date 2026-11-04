@@ -535,6 +535,17 @@
       "kind": "binary",
       "version": "0.8.0"
     },
+    "pdf-ocr": {
+      "assets": {
+        "any": {
+          "sha256": "a2b4adf65004c7896ef0a090d2abd6da670f883fb5b53efbc548a7532afec756",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/pdf-ocr-v0.1.0/pdf-ocr-0.1.0-any"
+        }
+      },
+      "commit": "0dcae26",
+      "kind": "script",
+      "version": "0.1.0"
+    },
     "planlint": {
       "assets": {
         "aarch64-apple-darwin": {
