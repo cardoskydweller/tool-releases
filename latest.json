@@ -221,17 +221,17 @@
     "dev": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "c2d3dc42ec8c0e795212aef82891cbeb5640431310da23ca4f4cf7cee6552f4b",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dev-v0.11.0/dev-0.11.0-aarch64-apple-darwin"
+          "sha256": "3433cfb9ed0a2955236be91d922a24f9365b1a87d869c2ff0d2c37e632039fa0",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dev-v0.12.0/dev-0.12.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "04f0f5c436f140f643bbe9406b723eb3b6433aef1d64e87e8ab3cc9ba85ed523",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dev-v0.11.0/dev-0.11.0-x86_64-unknown-linux-musl"
+          "sha256": "8e6d574b7a0ca46306f277bf21aa3d872c2112504d792edee104e482151d8442",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dev-v0.12.0/dev-0.12.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "84e5b69",
+      "commit": "67e1773",
       "kind": "binary",
-      "version": "0.11.0"
+      "version": "0.12.0"
     },
     "difflint": {
       "assets": {
