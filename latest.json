@@ -134,14 +134,18 @@
     },
     "ciwatch": {
       "assets": {
-        "any": {
-          "sha256": "cb1b3ddec6485f8b5083b0681d3f3029bbdb3ba3ac0c00376f2f464834fd06c4",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciwatch-v0.1.0/ciwatch-0.1.0-any"
+        "aarch64-apple-darwin": {
+          "sha256": "aaa2ce49636262fab898b52c21f2b8e3c4e513b22220b9da1081dac2c52a705c",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciwatch-v0.2.0/ciwatch-0.2.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "7058a886c715f7a8d75845bfe36aa58cf8cf465919776c39a857f37dd6bdd098",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciwatch-v0.2.0/ciwatch-0.2.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "52a3305",
-      "kind": "script",
-      "version": "0.1.0"
+      "commit": "45c9e21",
+      "kind": "binary",
+      "version": "0.2.0"
     },
     "contrast": {
       "assets": {
