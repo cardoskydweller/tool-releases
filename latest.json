@@ -789,6 +789,21 @@
       "kind": "script",
       "version": "0.1.0"
     },
+    "stagerun": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "65cf5be2b769d7408a2fa1e0d1e027ca8045bed13efc563fc4031aac59786eff",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stagerun-v0.1.0/stagerun-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "642185ea572c331d6842c9e7e74a89cfe1ff724ad613d5ba34b90fc9cb6d57e8",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stagerun-v0.1.0/stagerun-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "9452577",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "stelint": {
       "assets": {
         "aarch64-apple-darwin": {
