@@ -572,6 +572,21 @@
       "kind": "binary",
       "version": "0.4.0"
     },
+    "quiet": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "abb44059bc38581e1453b37abd9d9ea808178d542fbb9d043ae30136a26c3fee",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/quiet-v0.2.0/quiet-0.2.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "9a5d63b3592fb8c0c051638afeb058471408b8f21a1e44ee9c8997f0c46d7261",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/quiet-v0.2.0/quiet-0.2.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "03daf32",
+      "kind": "binary",
+      "version": "0.2.0"
+    },
     "recall": {
       "assets": {
         "aarch64-apple-darwin": {
