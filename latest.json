@@ -852,13 +852,13 @@
     "superboard": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "d3087c51827d4ba1cef1635ab6f0a8c7e70cf555970e96b94828f8942df20673",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/superboard-v0.1.0/superboard-0.1.0-aarch64-apple-darwin"
+          "sha256": "71706200aeb99850ff63fe2134a147ef495dd01d96e998dca4d9cb13b5902cfb",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/superboard-v0.1.1/superboard-0.1.1-aarch64-apple-darwin"
         }
       },
-      "commit": "e304838",
+      "commit": "38f59db",
       "kind": "binary",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     "svc": {
       "assets": {
