@@ -572,13 +572,13 @@
     "pdf-ocr": {
       "assets": {
         "any": {
-          "sha256": "2ff69592b969f8bdc88595723a97164c6687343d9dc53b79ade1594ab22ba4d6",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/pdf-ocr-v0.1.1/pdf-ocr-0.1.1-any"
+          "sha256": "e5986d49908689dc065c69c3faa03dbbdf02e4093fddaea86e2a4f72689e9c32",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/pdf-ocr-v0.2.0/pdf-ocr-0.2.0-any"
         }
       },
-      "commit": "6d2915f",
+      "commit": "612925d",
       "kind": "script",
-      "version": "0.1.1"
+      "version": "0.2.0"
     },
     "planlint": {
       "assets": {
