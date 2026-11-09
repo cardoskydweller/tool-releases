@@ -1016,17 +1016,17 @@
     "xreplace": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "14da1738545d9a4598ad1b8eda73aacb64ec59417353eb629b68a6c26b31ba2b",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/xreplace-v0.1.0/xreplace-0.1.0-aarch64-apple-darwin"
+          "sha256": "59077501b9f862e16a10a8490ccaacf1c358a746506032d3870f0d147b3be9bf",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/xreplace-v0.2.0/xreplace-0.2.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "e10efeb34652fb559d599f709ab25d0b124e93c9198a3f3b135e311d331851c3",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/xreplace-v0.1.0/xreplace-0.1.0-x86_64-unknown-linux-musl"
+          "sha256": "de906f1cbaae0c96aad9204c236f04b9973da0e3fbadb453414541a49d6af0fe",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/xreplace-v0.2.0/xreplace-0.2.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "fdd8d43",
+      "commit": "30059ad",
       "kind": "binary",
-      "version": "0.1.0"
+      "version": "0.2.0"
     },
     "zshguard": {
       "assets": {
