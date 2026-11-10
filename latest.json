@@ -419,17 +419,17 @@
     "funcsettings": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "289b49ed6716e5f210ea2bf8a61476bc0c62025aea597154d256934da5c851f1",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/funcsettings-v0.1.1/funcsettings-0.1.1-aarch64-apple-darwin"
+          "sha256": "5702ca47ec0a7d7c21864f908ba10a57a566394f8adb04eea8630a2f03e9c654",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/funcsettings-v0.1.2/funcsettings-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "4c52e1a309d233c6bf94cbffba9f905fc763f936a1da908e64533e7cda05193f",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/funcsettings-v0.1.1/funcsettings-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "f7e7bfc65729df2cbe60a1a3cbfc146558e3c374d5395a6296ec1e3f036025ff",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/funcsettings-v0.1.2/funcsettings-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "72d59c0",
+      "commit": "40b2605",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "gh-as": {
       "assets": {
