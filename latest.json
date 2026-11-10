@@ -512,17 +512,17 @@
     "mergebump": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "b612fdb4ee37d4ba3f7c8f11cf330ecc31f715b2fa5f4d93f79626429795e340",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/mergebump-v0.1.0/mergebump-0.1.0-aarch64-apple-darwin"
+          "sha256": "62ec415fb3dff97dba933dcb3bf0ba99082ff30c2738543c1f4618ed0a17c6ee",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/mergebump-v0.1.1/mergebump-0.1.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "5af11e4886199b8b158b0ff22c5f1561d6a30af4ca322cd090e03fc833257edb",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/mergebump-v0.1.0/mergebump-0.1.0-x86_64-unknown-linux-musl"
+          "sha256": "2d67d9f6efd1598dec583a63fec977c3de5ce93487206a88e1396d10900d5d2d",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/mergebump-v0.1.1/mergebump-0.1.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "7c8ebae",
+      "commit": "e1a3391",
       "kind": "binary",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     "milestone": {
       "assets": {
