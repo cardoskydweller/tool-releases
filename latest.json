@@ -878,17 +878,17 @@
     "steplint": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "53273dfab0c6950e2639132842c96624b1a51536a69e0d62b4d7688fbb58ed7f",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/steplint-v0.1.1/steplint-0.1.1-aarch64-apple-darwin"
+          "sha256": "802844b55dfb58c921baef5fbce3e02fc5c47ca2cb2ceddecbe966c6f46c98ad",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/steplint-v0.1.2/steplint-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "6fc65308424e92a7e8b74612a9539d1a9e430b36d7d02aa063abb67248a0735b",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/steplint-v0.1.1/steplint-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "f180f1c13a0cc50f73422d59a622363b7c0e8e64e7a5bd24b2fae8a1d578996e",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/steplint-v0.1.2/steplint-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "af63491",
+      "commit": "d61ca31",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "superboard": {
       "assets": {
