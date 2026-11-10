@@ -389,17 +389,17 @@
     "funcloop": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "4a2cbe31bfbfb11475a012817feb0a10febe7f1b2d31f346e6e352b95a6f35af",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/funcloop-v0.2.0/funcloop-0.2.0-aarch64-apple-darwin"
+          "sha256": "1be0bb15c427fcdce57af33b0e3eaa7583b907d3a6650a002a2a2eb5b3a1916e",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/funcloop-v0.2.1/funcloop-0.2.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "0a6087d60719004552e8ac4bdd2d0639b31e10d6383eee75f34c255810465818",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/funcloop-v0.2.0/funcloop-0.2.0-x86_64-unknown-linux-musl"
+          "sha256": "87600b8c9bf616377a4403782c7dbbe666f59c63a0b6c28cd6ceb064d85ad859",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/funcloop-v0.2.1/funcloop-0.2.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "93c1b9b",
+      "commit": "b6f2671",
       "kind": "binary",
-      "version": "0.2.0"
+      "version": "0.2.1"
     },
     "funcsettings": {
       "assets": {
