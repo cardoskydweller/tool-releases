@@ -863,17 +863,17 @@
     "stelint": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "80eb6e04154ea81fe02b0f92b794d8dbf581e2ba13b6db7789ec7203d121bfae",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stelint-v0.1.1/stelint-0.1.1-aarch64-apple-darwin"
+          "sha256": "5b246ca26d411218963bbb5a804f14089c33f6ea868763897411e2454d996d67",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stelint-v0.1.2/stelint-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "d35847898b7f20f003224ec3f6fb8abcfca3540ec2cd137b497982956f9813f5",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stelint-v0.1.1/stelint-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "aacb488b04928720d1b36d5aa81dcc1ecf26e94b7c6bff8a298d0ce5f6aeb498",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stelint-v0.1.2/stelint-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "daaf52f",
+      "commit": "c2e37b2",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "steplint": {
       "assets": {
