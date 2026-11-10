@@ -624,17 +624,17 @@
     "quiet": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "abb44059bc38581e1453b37abd9d9ea808178d542fbb9d043ae30136a26c3fee",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/quiet-v0.2.0/quiet-0.2.0-aarch64-apple-darwin"
+          "sha256": "dc69fa58a4240ab13a51b99808bbacc404b065d4753d9fd25aee852890e3efb2",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/quiet-v0.2.1/quiet-0.2.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "9a5d63b3592fb8c0c051638afeb058471408b8f21a1e44ee9c8997f0c46d7261",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/quiet-v0.2.0/quiet-0.2.0-x86_64-unknown-linux-musl"
+          "sha256": "d59a9806b348c3eb9d68b99cb01f570b36baf61264337a4a9227ede4c13ffa46",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/quiet-v0.2.1/quiet-0.2.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "03daf32",
+      "commit": "9498ab8",
       "kind": "binary",
-      "version": "0.2.0"
+      "version": "0.2.1"
     },
     "rcget": {
       "assets": {
