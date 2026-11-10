@@ -889,17 +889,17 @@
     "tools": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "9302f24c9ce3cbafe629d4639bb1733abe492ac8d2a7b3a4a02b0a002fdc3e68",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tools-v0.3.0/tools-0.3.0-aarch64-apple-darwin"
+          "sha256": "5372165bfad4b43a9e8f6085a5777a9f44111da59fc0a153912e52303ad92232",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tools-v0.3.1/tools-0.3.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "92260e0710fc46a15fae1ee535775e583edb24e5cf7ef3dbad1dae8d814e44ff",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tools-v0.3.0/tools-0.3.0-x86_64-unknown-linux-musl"
+          "sha256": "1f0f90f71b3cecc55dddf7ea90bc0585ddd9ea68a5ca6666c97a3d52caa142ba",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tools-v0.3.1/tools-0.3.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "fd60505",
+      "commit": "9e71c87",
       "kind": "binary",
-      "version": "0.3.0"
+      "version": "0.3.1"
     },
     "tools-check": {
       "assets": {
