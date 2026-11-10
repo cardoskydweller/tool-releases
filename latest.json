@@ -307,17 +307,17 @@
     "fake-apns": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "616da7f4d544392dcd7264cdb7850808c2e4ce723d4af9f3094f3a4b7684345f",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fake-apns-v0.2.1/fake-apns-0.2.1-aarch64-apple-darwin"
+          "sha256": "6d15a84b8e71989e218dfa452fa4e7a35c448093b853243dcafb78d144ff00c1",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fake-apns-v0.2.2/fake-apns-0.2.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "c3a4a866d41717e24628f3783fd13595ef8939afab007e2d6f40e807787bdf42",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fake-apns-v0.2.1/fake-apns-0.2.1-x86_64-unknown-linux-musl"
+          "sha256": "6019f590e98748541e0499d7587b92e38a4078411aa7377a04a40de666a63a93",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fake-apns-v0.2.2/fake-apns-0.2.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "3769709",
+      "commit": "f011284",
       "kind": "binary",
-      "version": "0.2.1"
+      "version": "0.2.2"
     },
     "fake-ses": {
       "assets": {
