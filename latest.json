@@ -1001,17 +1001,17 @@
     "walklint": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "876a2f3ed63f00aaa075f331ace42132f8df804071e33bd2aa6a5e38226f155b",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/walklint-v0.2.1/walklint-0.2.1-aarch64-apple-darwin"
+          "sha256": "96b410e62df80e9696bb9b088daadd11d964011a92853f3ed4f4f5889d2ee7ef",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/walklint-v0.2.2/walklint-0.2.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "4a60600680b54ae0168e02f2a0986772e893a4d468999dd71eba1ace0155b73b",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/walklint-v0.2.1/walklint-0.2.1-x86_64-unknown-linux-musl"
+          "sha256": "2410fe49ed965eeabd38127775f224c210a5cdf0f29084ba5ae3c0454d2cd98f",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/walklint-v0.2.2/walklint-0.2.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "46620e2",
+      "commit": "c395687",
       "kind": "binary",
-      "version": "0.2.1"
+      "version": "0.2.2"
     },
     "wfres": {
       "assets": {
