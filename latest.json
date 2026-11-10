@@ -945,17 +945,17 @@
     "tstate": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "10db283b7918e06cd8f7687f3fa1901a080ac8cd17e98c2e49325038890da289",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tstate-v0.3.1/tstate-0.3.1-aarch64-apple-darwin"
+          "sha256": "48830c2ca3f2c2c4687d2ba2521f8dcd197404421eac374f18b1a349839be830",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tstate-v0.3.2/tstate-0.3.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "944fb1f0e4b13f4878a2cefecfcbce0d3d4f6a279c100375847b40ab3abf0e75",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tstate-v0.3.1/tstate-0.3.1-x86_64-unknown-linux-musl"
+          "sha256": "f1f416cb1904980646cce0a0fb5456202ce5ae116900b57821dd6c37843ac2d4",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tstate-v0.3.2/tstate-0.3.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "d0e4678",
+      "commit": "077ee83",
       "kind": "binary",
-      "version": "0.3.1"
+      "version": "0.3.2"
     },
     "twl": {
       "assets": {
