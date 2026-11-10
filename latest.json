@@ -740,17 +740,17 @@
     "ruling": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "4b700c8d2e685bd1550ebc9b35be3ee4c8d2c95aa06234374128ec10d37de1cd",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ruling-v0.6.0/ruling-0.6.0-aarch64-apple-darwin"
+          "sha256": "0d8120d5e879eb2bedefa65e43129616855804f7ef4ee0df7df0046ac9d025d3",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ruling-v0.6.1/ruling-0.6.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "e92ee55c658660a485c3234a2736b6b037b26cc4512b781027f512b0ba5cb25d",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ruling-v0.6.0/ruling-0.6.0-x86_64-unknown-linux-musl"
+          "sha256": "6bf62b87944679f219dc4bc076525fd6a32efc625e5df4f6bffc0c2831b12609",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ruling-v0.6.1/ruling-0.6.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "c17f86d",
+      "commit": "afebf13",
       "kind": "binary",
-      "version": "0.6.0"
+      "version": "0.6.1"
     },
     "said": {
       "assets": {
