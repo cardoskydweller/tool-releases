@@ -34,17 +34,17 @@
     "apiprobe": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "fb95c8a2a1b3cbe93b777a4370b53402ad8d117e7a7c5bac786fa520b2c196c3",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/apiprobe-v0.3.1/apiprobe-0.3.1-aarch64-apple-darwin"
+          "sha256": "f98843cd0380091da6c826b78bfbac089e36bc8756a6f279a22a55e24e12ca67",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/apiprobe-v0.3.2/apiprobe-0.3.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "7faf68ce51a259291aa58a5ac97a269e732aaf7bb1958264c7053ec3630e5ba1",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/apiprobe-v0.3.1/apiprobe-0.3.1-x86_64-unknown-linux-musl"
+          "sha256": "87a176f5f9eedec53cff61202940d79faef23f2b66ab7e8f9283977eaeb54a27",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/apiprobe-v0.3.2/apiprobe-0.3.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "a2f660e",
+      "commit": "6cd726c",
       "kind": "binary",
-      "version": "0.3.1"
+      "version": "0.3.2"
     },
     "appshare": {
       "assets": {
