@@ -740,17 +740,17 @@
     "rulesprobe": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "77a5f2072be221c832b06644f75bf513f8a24446c6b5b8e0aa03f475dab0fc6c",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesprobe-v0.1.1/rulesprobe-0.1.1-aarch64-apple-darwin"
+          "sha256": "129cccba882b87260c61d59152e1a7c6c1da67e3b095a86e3fe2c5c98f273ec0",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesprobe-v0.1.2/rulesprobe-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "8526bb84a8f26bfda50aa19296ce87c1b89a99ca9fb09ea1223f2a51aecff57a",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesprobe-v0.1.1/rulesprobe-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "fa43be4b736e9cc66486607a641bef047f5055a13ba152d67f4778958f87d535",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesprobe-v0.1.2/rulesprobe-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "df195f0",
+      "commit": "0583997",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "ruling": {
       "assets": {
