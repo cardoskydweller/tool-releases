@@ -165,17 +165,17 @@
     "contrast": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "668a7f3c2065e64a1c901252f3e0d936415bcb75d27c9d52e4c6ee0c0ec81164",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/contrast-v0.1.1/contrast-0.1.1-aarch64-apple-darwin"
+          "sha256": "16dee434531f36828124c8d134e447e2f5b162b969c6173939d6ca5a39ccb9e7",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/contrast-v0.1.2/contrast-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "f5dc981ac877d253d5cb6283c176229f74f586fd1b8883fa2ab2a90c4c84b89b",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/contrast-v0.1.1/contrast-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "475106d8bf4eab3d4a98f4580e1149a8a1cf38478baee1bd72f4fbadbad38ca4",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/contrast-v0.1.2/contrast-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "b68266d",
+      "commit": "a7d66e9",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "cosmoshape": {
       "assets": {
