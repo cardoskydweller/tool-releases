@@ -277,17 +277,17 @@
     "docpage": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "b16ec4755d890f0b61178793d1f659f4fb27480dfe5303ebf14df9ad1a0d5375",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/docpage-v0.2.1/docpage-0.2.1-aarch64-apple-darwin"
+          "sha256": "87ffd6e132b60e2cd96fdc5d80e762cc1c10384bbbc9a37a19e38ac42cef205c",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/docpage-v0.2.2/docpage-0.2.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "f39181c1a3c6180696ab20005e5d7e90679a64b1c2b989f239baea84384ca8ad",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/docpage-v0.2.1/docpage-0.2.1-x86_64-unknown-linux-musl"
+          "sha256": "8e0a905e532ae27e44eadd3e537ccd6e9866a11c177b7d779ec68c9934f2ea22",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/docpage-v0.2.2/docpage-0.2.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "0072f28",
+      "commit": "6d1c0ac",
       "kind": "binary",
-      "version": "0.2.1"
+      "version": "0.2.2"
     },
     "domainfree": {
       "assets": {
