@@ -695,17 +695,17 @@
     "revpack": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "be1ef847c928d13a4603d0124b1711ff5ea7f08e8cd6e91eea517825a770a234",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/revpack-v0.2.0/revpack-0.2.0-aarch64-apple-darwin"
+          "sha256": "ed72e7c0ab993a130986e06f9b8e88bec0c09e392ae20cf07d7cbca2669aaa85",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/revpack-v0.2.1/revpack-0.2.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "36a65c50d2023de72dff4599ec8cb488c526d2077af8b3e8a96a6e01ea7214a9",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/revpack-v0.2.0/revpack-0.2.0-x86_64-unknown-linux-musl"
+          "sha256": "d965a6707cf574b1f57df70a4cce044527cabab47dbc6f3860ddc1a0f4a41b86",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/revpack-v0.2.1/revpack-0.2.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "9bc136c",
+      "commit": "f8ef598",
       "kind": "binary",
-      "version": "0.2.0"
+      "version": "0.2.1"
     },
     "rulesprobe": {
       "assets": {
