@@ -837,17 +837,17 @@
     "stagerun": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "fe9eecf89138bd83ae47d59782aca73573884678dcacb1fa079d670db532fff3",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stagerun-v0.1.2/stagerun-0.1.2-aarch64-apple-darwin"
+          "sha256": "f164da117267cda9a1cc87684f16ac44e3e1ef89f4be24547e6eac510d9ee31c",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stagerun-v0.1.3/stagerun-0.1.3-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "5d1b751b2dcccc4c0be61443a780e50cbfa151e10facb8d3daa5e8479b0b3c14",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stagerun-v0.1.2/stagerun-0.1.2-x86_64-unknown-linux-musl"
+          "sha256": "66f309dd94090357c259db6fe557738d3bbb62fc13327ecffff3aebe3351fc4e",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/stagerun-v0.1.3/stagerun-0.1.3-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "e8541ab",
+      "commit": "765f8b3",
       "kind": "binary",
-      "version": "0.1.2"
+      "version": "0.1.3"
     },
     "stelint": {
       "assets": {
