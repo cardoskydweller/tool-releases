@@ -796,17 +796,17 @@
     "signcheck": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "91f3ae8fd9bbb89105ca8f412395051e1e015e2e92e4411db04e8469ebe3a64c",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/signcheck-v0.1.1/signcheck-0.1.1-aarch64-apple-darwin"
+          "sha256": "a2997794ed5efe158e7d288eeb2e2cbacd5250119b108b276f1cbe4963588169",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/signcheck-v0.1.2/signcheck-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "6cfe45f08117e17abe651dddb5e76df911c275139a5fd1c8a5bf4d6d01ef95d9",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/signcheck-v0.1.1/signcheck-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "8f4266aa013f31a7dd833771a046865be42f2c7e3957a4ebdd27df521bccb786",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/signcheck-v0.1.2/signcheck-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "87c8032",
+      "commit": "9f67831",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "skillscan": {
       "assets": {
