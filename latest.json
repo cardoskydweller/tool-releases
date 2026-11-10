@@ -266,13 +266,13 @@
     "diskmap": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "54384007e034a66fe9e6eea05db71adfc95a8fafeef474641e7e1734a02010c3",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/diskmap-v0.1.1/diskmap-0.1.1-aarch64-apple-darwin"
+          "sha256": "35332ff14f09c4b09dfe296099c668367f4a8ecdce9314cb3dce5cd63fa856a2",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/diskmap-v0.1.2/diskmap-0.1.2-aarch64-apple-darwin"
         }
       },
-      "commit": "3293596",
+      "commit": "65e29fe",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "docpage": {
       "assets": {
