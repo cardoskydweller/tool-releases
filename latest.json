@@ -292,17 +292,17 @@
     "domainfree": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "676ae0f3438e1a9f25b4a96d0340fe61a19ec2caca350ea38b2e0f04157fdbc6",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/domainfree-v0.2.1/domainfree-0.2.1-aarch64-apple-darwin"
+          "sha256": "e3df56d5cb08aa2dbdb654215e13f23c75e8786f243a7ade4dfdc95c857fc71a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/domainfree-v0.2.2/domainfree-0.2.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "8d5a19d1ec41802248378a67a48f494a613daa81b4ccadb1706e590389421a85",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/domainfree-v0.2.1/domainfree-0.2.1-x86_64-unknown-linux-musl"
+          "sha256": "c2e984076003c56778d1782e32375b82f7389a4e6551dc00ed0b0341b1a8db90",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/domainfree-v0.2.2/domainfree-0.2.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "b193cef",
+      "commit": "b5387c7",
       "kind": "binary",
-      "version": "0.2.1"
+      "version": "0.2.2"
     },
     "fake-apns": {
       "assets": {
