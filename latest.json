@@ -195,17 +195,17 @@
     "dbgwire": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "6aa0b12eee0a74131bd27d683da1714121f2efab6d878e3f653439f21e39b8d6",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dbgwire-v0.1.0/dbgwire-0.1.0-aarch64-apple-darwin"
+          "sha256": "2682e00e82f24e242ab739af7d04344c693becac0afe0556c81e7d846ff97961",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dbgwire-v0.1.1/dbgwire-0.1.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "372754b1868ff1a5165026518797da99b4dff01421cbc4bc4e41c3761fa01aba",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dbgwire-v0.1.0/dbgwire-0.1.0-x86_64-unknown-linux-musl"
+          "sha256": "84c9fe3d251348590bc9868991c54ea0b9a3170bd5418193cd71684011e61ae1",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dbgwire-v0.1.1/dbgwire-0.1.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "e8ea062",
+      "commit": "fe11db7",
       "kind": "binary",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     "depcheck": {
       "assets": {
