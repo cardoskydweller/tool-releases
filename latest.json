@@ -46,6 +46,21 @@
       "kind": "binary",
       "version": "0.3.1"
     },
+    "appshare": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "7c1767b76a9d10a5860c87643acab44bb77706c667759dde74e5a2c03c4b2e8c",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/appshare-v0.1.1/appshare-0.1.1-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "319b15fac10d6805cd04c18e97424bc63808c68a51797e566124d29d7de99272",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/appshare-v0.1.1/appshare-0.1.1-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "71bc8cd",
+      "kind": "binary",
+      "version": "0.1.1"
+    },
     "board": {
       "assets": {
         "aarch64-apple-darwin": {
