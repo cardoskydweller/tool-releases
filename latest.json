@@ -337,17 +337,17 @@
     "fanpr": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "f7b76cf1e76bcea071ed8defefcc4af178738429c7f742b46e894f01ffb28353",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fanpr-v0.1.1/fanpr-0.1.1-aarch64-apple-darwin"
+          "sha256": "fdf5baa8e94256d2e8f42d552dbeae14be4027ff633f01a34eacfa4985fc657b",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fanpr-v0.1.2/fanpr-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "e7f12f723d6a7e6e1097f66f473a8c9b7078fe1d269f392dd432fd92f90eb4a7",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fanpr-v0.1.1/fanpr-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "66e500acbbec2860686c0caafc095d3b30fbffd10db37211ec6bf89035eaf8d6",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fanpr-v0.1.2/fanpr-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "30abd20",
+      "commit": "a44bac6",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "fixlint": {
       "assets": {
