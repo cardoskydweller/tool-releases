@@ -390,6 +390,17 @@
       "kind": "binary",
       "version": "0.1.2"
     },
+    "freeable": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "645d674cf7e49d9977c0f82d47594409ca190ef500f25a6d6622c911f1fe94c7",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/freeable-v0.1.1/freeable-0.1.1-aarch64-apple-darwin"
+        }
+      },
+      "commit": "78177cf",
+      "kind": "binary",
+      "version": "0.1.1"
+    },
     "fresh": {
       "assets": {
         "any": {
