@@ -621,6 +621,21 @@
       "kind": "binary",
       "version": "0.2.0"
     },
+    "rcget": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "c26d069794876da82c87a71d3912ed7c1eba66388394528a5153f635847b39cd",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rcget-v0.1.1/rcget-0.1.1-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "646e707f777247b45ea559372920fefb641f8c09fda957cb7bc853ab2ef0e053",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rcget-v0.1.1/rcget-0.1.1-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "142f8b3",
+      "kind": "binary",
+      "version": "0.1.1"
+    },
     "recall": {
       "assets": {
         "aarch64-apple-darwin": {
