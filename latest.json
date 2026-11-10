@@ -1016,17 +1016,17 @@
     "wfres": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "08844538548d6731df90ccc738e94eb3eafda96c6ce7177e64958086edff7278",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/wfres-v0.1.1/wfres-0.1.1-aarch64-apple-darwin"
+          "sha256": "e61a52401faf055640cf4fd998169dce9242d4eba09fb1a19d7616e935bf4553",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/wfres-v0.1.2/wfres-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "9d41f8251ab342f86c3e4dbb9b75d2820bc13ef48d6955531cbb42a4383a56a3",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/wfres-v0.1.1/wfres-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "24565951ac677d45710babd35ddb10841a423874048a4a8c275d20c78701c09f",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/wfres-v0.1.2/wfres-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "2f7a933",
+      "commit": "b5c3c69",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "wt": {
       "assets": {
