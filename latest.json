@@ -512,17 +512,17 @@
     "maplint": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "a1844e66e37cbf4fcd82bdea2e66f46294c4b3d5a433c340174f2d341a9aa4fc",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/maplint-v0.4.1/maplint-0.4.1-aarch64-apple-darwin"
+          "sha256": "a1f65871e9ab3078e34edaf60e7d1973f68ad4e7015df92b34d9f2d7ab25860d",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/maplint-v0.4.2/maplint-0.4.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "ffafac772ac68b846dbda020b0ef7bf3843b0363c9929a0bf3ca43bd19283f98",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/maplint-v0.4.1/maplint-0.4.1-x86_64-unknown-linux-musl"
+          "sha256": "abce79bffd1bbd29c3c6fe628b0e416e65e9a175b0db01a5c398a86c6a1469bb",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/maplint-v0.4.2/maplint-0.4.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "94d81a2",
+      "commit": "73651c2",
       "kind": "binary",
-      "version": "0.4.1"
+      "version": "0.4.2"
     },
     "mergebump": {
       "assets": {
