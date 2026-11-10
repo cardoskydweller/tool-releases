@@ -639,17 +639,17 @@
     "rcget": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "c26d069794876da82c87a71d3912ed7c1eba66388394528a5153f635847b39cd",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rcget-v0.1.1/rcget-0.1.1-aarch64-apple-darwin"
+          "sha256": "8e779c62a82d08b3a01aca3e2a70e75cfccc85d14156c27e387b6322380e606c",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rcget-v0.1.2/rcget-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "646e707f777247b45ea559372920fefb641f8c09fda957cb7bc853ab2ef0e053",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rcget-v0.1.1/rcget-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "72340dfb24f3cda76cca103eb32a55e0dc787253fbd12b0477278884739e154a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rcget-v0.1.2/rcget-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "142f8b3",
+      "commit": "3c2dcca",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "recall": {
       "assets": {
