@@ -180,17 +180,17 @@
     "cosmoshape": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "941614e6e4d2db63ac7346b6446aeb15443934f03a9777f5cdb9e224cd2fe46f",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cosmoshape-v0.1.1/cosmoshape-0.1.1-aarch64-apple-darwin"
+          "sha256": "4667a799b4b0c313149c1ded09c673fc80ebd57ce77d9fd8d73235f01b858da0",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cosmoshape-v0.1.2/cosmoshape-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "00feeeb6cc6255b1eb9c953faa6c4be3d2a786e748b5702ca8d3ad4a0b1f3bbc",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cosmoshape-v0.1.1/cosmoshape-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "c3d7fd43c4cc48fc377e1f458dca5ccfd0c65aff3a657592e82f788d5a99d5bb",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cosmoshape-v0.1.2/cosmoshape-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "b1baf5b",
+      "commit": "c471b81",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "ctxfiles": {
       "assets": {
