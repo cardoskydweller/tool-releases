@@ -1035,13 +1035,13 @@
     "xctest-run": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "2f811807ffd9992fbbc010cc1bfd93110663b5626882b4bff778a6bb86e97727",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/xctest-run-v0.2.2/xctest-run-0.2.2-aarch64-apple-darwin"
+          "sha256": "410427628ae89732bf4c019eb7f7587614be6014c9424c96b4b8e2a406f06a9d",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/xctest-run-v0.2.3/xctest-run-0.2.3-aarch64-apple-darwin"
         }
       },
-      "commit": "b559125",
+      "commit": "77a7c78",
       "kind": "binary",
-      "version": "0.2.2"
+      "version": "0.2.3"
     },
     "xreplace": {
       "assets": {
