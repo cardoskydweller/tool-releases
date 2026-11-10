@@ -19,17 +19,17 @@
     "analyzediff": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "202e20caecedc6603dae14940d709b019b37321fc393b62783b4fbf363f90bf4",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/analyzediff-v0.1.1/analyzediff-0.1.1-aarch64-apple-darwin"
+          "sha256": "77ae44e78d4073549d524af39ee7054dd11eb8525c6462ce7b54d31e1e46ee6f",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/analyzediff-v0.1.2/analyzediff-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "eaa4f34c3c7735db3a74a746da6f4c40231cbb0f3bec5dd968bd89e4484114d0",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/analyzediff-v0.1.1/analyzediff-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "e97d9058e6eedc4c828636218d1c3ae71a81011ea2ed946f3a02f7b15fa28d07",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/analyzediff-v0.1.2/analyzediff-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "e2f855e",
+      "commit": "aac8c8a",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "apiprobe": {
       "assets": {
