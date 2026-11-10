@@ -195,17 +195,17 @@
     "ctxfiles": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "0a8ae099d62a492f8b8b689225a52ab27d53b9226ca0ea081ccfee95923bc93e",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ctxfiles-v0.1.1/ctxfiles-0.1.1-aarch64-apple-darwin"
+          "sha256": "5ae4a27ccb16e683a750e796574e2d0301b75071d8c808bd52921293928e60ea",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ctxfiles-v0.1.2/ctxfiles-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "63902f3567533002c848ea54a07e0aa97bca7af370d7d8fa544296e103a66d81",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ctxfiles-v0.1.1/ctxfiles-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "f97d77f6e4c55fb8bf1db61e3153660ffb190729792ac2838e438cb5ceabea50",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ctxfiles-v0.1.2/ctxfiles-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "161b86a",
+      "commit": "b3bd29b",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "dbgwire": {
       "assets": {
