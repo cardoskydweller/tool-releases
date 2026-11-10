@@ -986,17 +986,17 @@
     "verlint": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "9c6435115898a1769d1e9bf56409237902d702398b3d469be62410f8eedc907f",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/verlint-v0.3.3/verlint-0.3.3-aarch64-apple-darwin"
+          "sha256": "75704f5991ab7bfedfab30522dd689e02bea13f587316198b7b03abd52e52161",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/verlint-v0.3.4/verlint-0.3.4-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "26f198d5d95520df1e6ed7fbe0c763b60a31048829fdf941220ef0053c08b976",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/verlint-v0.3.3/verlint-0.3.3-x86_64-unknown-linux-musl"
+          "sha256": "06fce2dfa9beb2c5269c83f20cc050c8462a00e5643ac20c4a14102fa8a5f77e",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/verlint-v0.3.4/verlint-0.3.4-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "8a83ae4",
+      "commit": "690fcd9",
       "kind": "binary",
-      "version": "0.3.3"
+      "version": "0.3.4"
     },
     "walklint": {
       "assets": {
