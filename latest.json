@@ -109,17 +109,17 @@
     "cdnpick": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "2342ced99baaf4ba66886ef095a33862d9271bba88345aad430ab889b0d385de",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cdnpick-v0.1.1/cdnpick-0.1.1-aarch64-apple-darwin"
+          "sha256": "34115c99b66c65f91bb6c2e00ad15bfe15f6ed1a0d58ab395825dc6a26846896",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cdnpick-v0.1.2/cdnpick-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "f2f7ed7861788a5ecea2f8e38fc00212b4e09694142517648118665b9bcdacc7",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cdnpick-v0.1.1/cdnpick-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "43252aef30df657d47a1a99f4deb49bc1ab029acfad74ab4394b0ec6c5b5fd67",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/cdnpick-v0.1.2/cdnpick-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "643a5a9",
+      "commit": "a3c6bed",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "check": {
       "assets": {
