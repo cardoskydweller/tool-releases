@@ -542,17 +542,17 @@
     "milestone": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "259a2027474c9544456b69667ece287bb7cb5bafd5b253e34f79742d90156858",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/milestone-v0.2.1/milestone-0.2.1-aarch64-apple-darwin"
+          "sha256": "16564ae4226b2ed4233ac04ccccc00575a5f1e5e31943490c620fd3733e7a696",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/milestone-v0.2.2/milestone-0.2.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "bd46de1b0f3ca806628dad74b1d515cb8e40b0b78c00c6b623e092de97655ed9",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/milestone-v0.2.1/milestone-0.2.1-x86_64-unknown-linux-musl"
+          "sha256": "d6d49be1eaf651095b2449f471a397a4b4daf4eb50a199c03eebe1603c63289d",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/milestone-v0.2.2/milestone-0.2.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "05983fc",
+      "commit": "2c8f27c",
       "kind": "binary",
-      "version": "0.2.1"
+      "version": "0.2.2"
     },
     "nugetprune": {
       "assets": {
