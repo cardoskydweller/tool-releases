@@ -64,17 +64,17 @@
     "brazewire": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "4509f8d0db2daec67d7d4ed05f93554360719ae1eeb0e68e4225a1e7be3a6fb8",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/brazewire-v0.1.0/brazewire-0.1.0-aarch64-apple-darwin"
+          "sha256": "d7d6d54fabc2fb2acb69a24055d6af55328e5e6bd938a374face149872cbd444",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/brazewire-v0.1.1/brazewire-0.1.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "aaaed70734c2a7025f0aeba20d2b5c9ac5c42ee104311ad75c2c5ed796dd0af2",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/brazewire-v0.1.0/brazewire-0.1.0-x86_64-unknown-linux-musl"
+          "sha256": "9eb489701fb7b95d9f57a92308ac5bc78c0bfa5353e18da012e5b54b423a095d",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/brazewire-v0.1.1/brazewire-0.1.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "fccec10",
+      "commit": "7086ecf",
       "kind": "binary",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     "budget": {
       "assets": {
