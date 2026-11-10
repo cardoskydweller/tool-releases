@@ -225,17 +225,17 @@
     "depcheck": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "e9065712a86f9b49eab1a4d7458987e0449a4878ca5d9741e64477d0850d3892",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/depcheck-v0.2.1/depcheck-0.2.1-aarch64-apple-darwin"
+          "sha256": "17f71463f298a6cfd5d061d042fdac5cabb2ca07e58f2ffb06a6d8a5126f087a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/depcheck-v0.2.2/depcheck-0.2.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "95f5a410fdbe90a440d7f5919c42c15e90a02d3f5817da8da6fade9c97a21818",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/depcheck-v0.2.1/depcheck-0.2.1-x86_64-unknown-linux-musl"
+          "sha256": "9b45c84971b6da885d0e3268c9fc64a722829652f58b80ac037f34626ae01b4a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/depcheck-v0.2.2/depcheck-0.2.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "bad5de6",
+      "commit": "ffb2c35",
       "kind": "binary",
-      "version": "0.2.1"
+      "version": "0.2.2"
     },
     "dev": {
       "assets": {
