@@ -654,17 +654,17 @@
     "refcap": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "07e3fd268d8f5fbcc6d6b44abf5673ecdf42f64aca7c67d5b098ad600b3c4d33",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/refcap-v0.1.0/refcap-0.1.0-aarch64-apple-darwin"
+          "sha256": "e74ae9c3cdeaa899078e24ddaf16937fef1611b9a4e816bf98a70716e3592199",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/refcap-v0.1.1/refcap-0.1.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "cd5ad9c1531582f3842b79b4973138daa1f4f7e2513e13dac4415bacc659bbb7",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/refcap-v0.1.0/refcap-0.1.0-x86_64-unknown-linux-musl"
+          "sha256": "a064bc48d501c1feb868f3083f5e351ef67fcc7a7db0545a7f124e5ea9094943",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/refcap-v0.1.1/refcap-0.1.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "47e5269",
+      "commit": "423e452",
       "kind": "binary",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     "regen-mocks": {
       "assets": {
