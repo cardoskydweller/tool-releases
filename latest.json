@@ -378,17 +378,17 @@
     "forktest": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "501172c846df7be5667cd2e096797333a0b18438cd93c6535b4b5ef792dffc4a",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/forktest-v0.1.1/forktest-0.1.1-aarch64-apple-darwin"
+          "sha256": "cbb1c8d64942d2c5c2f04c09718b87a50ffb32dd94289b38cd663a2dcc90fea5",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/forktest-v0.1.2/forktest-0.1.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "32cf3fea6c7be2b38cde985c5c1d7cef178c88afb95f006c23bdeddd18c232cb",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/forktest-v0.1.1/forktest-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "59451e8ae5e677568403b77746c7f4833829e1ae593c7660bd5121fa657653b3",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/forktest-v0.1.2/forktest-0.1.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "8cd61cf",
+      "commit": "bfac0da",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.1.2"
     },
     "fresh": {
       "assets": {
