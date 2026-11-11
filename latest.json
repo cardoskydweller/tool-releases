@@ -792,17 +792,17 @@
     "seatrun": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "9aa2c7133d807703d4a83852a52b4a7563a7d58be42b195c07a65339cc017c02",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/seatrun-v0.1.0/seatrun-0.1.0-aarch64-apple-darwin"
+          "sha256": "6557207c1f625f6b415bb4a45d1a1d7c6349a81ebf9b0bdd01b7c958a1aa3c14",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/seatrun-v0.1.1/seatrun-0.1.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "9fb1756fd7567697d335b83cf521ce9cb9ceb7edda506bfcb8071acb96b22e69",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/seatrun-v0.1.0/seatrun-0.1.0-x86_64-unknown-linux-musl"
+          "sha256": "998a4401c7e2189ecffdd092efde6988c2afd1adfcdc274a4006fec9e66fd390",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/seatrun-v0.1.1/seatrun-0.1.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "982c9e1",
+      "commit": "e776a9b",
       "kind": "binary",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     "secretdiff": {
       "assets": {
