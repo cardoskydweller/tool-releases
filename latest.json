@@ -609,17 +609,17 @@
     "planlint": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "622a5683a3a3931409da156dc7d5c5045c423d0cc1d8fd26c6cd821fae5c4f04",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/planlint-v0.10.0/planlint-0.10.0-aarch64-apple-darwin"
+          "sha256": "436dffcb5c8100cf9ebcf5424c6ebc1bee2de7c0f8e5e71e67e35607c7e444d6",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/planlint-v0.10.1/planlint-0.10.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "a40a5c3229df7b86c795694c4b36bcfcad81de4a9812bfe1f444e8cdaf44aa61",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/planlint-v0.10.0/planlint-0.10.0-x86_64-unknown-linux-musl"
+          "sha256": "e8c1d8dc1db8e2b1a39cc8a5d50fe5e98f95b3aa4f085f1771bb42fa8097f001",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/planlint-v0.10.1/planlint-0.10.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "7d77a77",
+      "commit": "5e2e13f",
       "kind": "binary",
-      "version": "0.10.0"
+      "version": "0.10.1"
     },
     "printpdf": {
       "assets": {
