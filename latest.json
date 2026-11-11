@@ -956,17 +956,17 @@
     "toolship": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "05ca43c0a1554351df2698e255fa141f8036cf49e405494ed41c7ca3b228e38a",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/toolship-v0.12.1/toolship-0.12.1-aarch64-apple-darwin"
+          "sha256": "02d971674cd529ba7ee7e0406dc47e063074cf95ea877b6f8e283ad644c77b3f",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/toolship-v0.12.2/toolship-0.12.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "d25516a0a318638d5313ecc2bfeb98e52aa06a20eaeeff3e51508b1e360449bc",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/toolship-v0.12.1/toolship-0.12.1-x86_64-unknown-linux-musl"
+          "sha256": "0c0970956139318a7565bf495c8ad8037155bed18f852927c011626a91a317c4",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/toolship-v0.12.2/toolship-0.12.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "63d2430",
+      "commit": "a03cdfe",
       "kind": "binary",
-      "version": "0.12.1"
+      "version": "0.12.2"
     },
     "tstate": {
       "assets": {
