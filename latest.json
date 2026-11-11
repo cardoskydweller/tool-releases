@@ -512,13 +512,13 @@
     "machina": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "2b6ebd7b3f1313d16444a48e96121d4e2abde97da5a202f15591b4954bbb0621",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/machina-v0.3.1/machina-0.3.1-aarch64-apple-darwin"
+          "sha256": "9e54cb579d61fb3fd33a74162f7d4b4d5bf53b4115db86b2752299bc438c0835",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/machina-v0.3.2/machina-0.3.2-aarch64-apple-darwin"
         }
       },
-      "commit": "99dd5e2",
+      "commit": "43ccdfa",
       "kind": "binary",
-      "version": "0.3.1"
+      "version": "0.3.2"
     },
     "maplint": {
       "assets": {
