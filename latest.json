@@ -352,17 +352,17 @@
     "fixlint": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "4d435ea1602950ca8d14d248e95f3f735092c80e21d6e17b2b7d713396036cac",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fixlint-v0.4.2/fixlint-0.4.2-aarch64-apple-darwin"
+          "sha256": "5b86b7f5912672ae824cc29e2160e3fd20610e63549111f8c2d191e9a6ba9589",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fixlint-v0.5.0/fixlint-0.5.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "a16b2d1235e54241400f4533cb672d4fe83bf8e4a4bafc62933093fc760c6cab",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fixlint-v0.4.2/fixlint-0.4.2-x86_64-unknown-linux-musl"
+          "sha256": "0cbebb7cb0a2026fedccccff216147f34988660f10c762e676f94282981749e5",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fixlint-v0.5.0/fixlint-0.5.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "1dc06d5",
+      "commit": "af3492f",
       "kind": "binary",
-      "version": "0.4.2"
+      "version": "0.5.0"
     },
     "fleet": {
       "assets": {
