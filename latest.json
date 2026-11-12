@@ -945,13 +945,13 @@
     "tools-check": {
       "assets": {
         "any": {
-          "sha256": "6c46e4debea18dea1a4eef0c91eb165ced126bd593768747d3e9b8c695dd57b9",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tools-check-v1.0.0/tools-check-1.0.0-any"
+          "sha256": "974c6097747bf423e05adee496461a17d5b199f9c7811bed12ad5d5e2bdef709",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/tools-check-v1.1.0/tools-check-1.1.0-any"
         }
       },
-      "commit": "cefe1d0",
+      "commit": "d4fd233",
       "kind": "script",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     "toolship": {
       "assets": {
