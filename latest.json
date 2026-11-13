@@ -177,6 +177,21 @@
       "kind": "binary",
       "version": "0.1.2"
     },
+    "copseat": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "7d66a2764f69a57fb100df58b390510aee654ed7638d7ec7af6bff4d395145b2",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/copseat-v0.1.0/copseat-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "711ac44944d0ef6a17b1ee3aa39b1b67742bd60d2504ad19867a623f54b84830",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/copseat-v0.1.0/copseat-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "2a12720",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "cosmoshape": {
       "assets": {
         "aarch64-apple-darwin": {
