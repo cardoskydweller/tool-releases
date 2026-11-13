@@ -486,17 +486,17 @@
     "linuxci": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "9db99119905ae7e0f62a563bf0aab40883d3379c87ecc64bcdcb73299bed483c",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/linuxci-v0.3.2/linuxci-0.3.2-aarch64-apple-darwin"
+          "sha256": "181359531400b254102a747d39ba71bd10acef46feb6727251e76c0b45873a37",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/linuxci-v0.4.0/linuxci-0.4.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "c025a579eb4e28a6b97b37f6e7353f38165170fd8de3c5632ec4ad73a2df45b0",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/linuxci-v0.3.2/linuxci-0.3.2-x86_64-unknown-linux-musl"
+          "sha256": "c5f55a1c7b76b58ad5ddf8b720d1a33183547b5acf1e02682dac7e4108d97080",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/linuxci-v0.4.0/linuxci-0.4.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "752cfe8",
+      "commit": "29ce287",
       "kind": "binary",
-      "version": "0.3.2"
+      "version": "0.4.0"
     },
     "loopenv": {
       "assets": {
