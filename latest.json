@@ -748,6 +748,21 @@
       "kind": "binary",
       "version": "0.2.2"
     },
+    "rulesmove": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "7889a5ca572df8cf0b7acffde73b8f8367f83be7425cb8b1cbc0ed88907347b9",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesmove-v0.1.0/rulesmove-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "7ae1b5b7df83f7d39b5cb38f8b9df0952567894052edb44574bbfb58e533818b",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesmove-v0.1.0/rulesmove-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "fc46bb8",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "rulesprobe": {
       "assets": {
         "aarch64-apple-darwin": {
