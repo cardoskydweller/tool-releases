@@ -475,13 +475,13 @@
     "gh-as": {
       "assets": {
         "any": {
-          "sha256": "1ef93e52af0bb6aad9637601ee17204f2fd45c0593109b489146417d0088ebce",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/gh-as-v0.2.3/gh-as-0.2.3-any"
+          "sha256": "ce8b8a6524f187f827f76f01758feb664d2a39d0b463c4024153fd8a5632ad3c",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/gh-as-v0.3.0/gh-as-0.3.0-any"
         }
       },
-      "commit": "689cfda",
+      "commit": "65a3dc5",
       "kind": "script",
-      "version": "0.2.3"
+      "version": "0.3.0"
     },
     "gopola": {
       "assets": {
