@@ -1088,6 +1088,21 @@
       "kind": "binary",
       "version": "0.1.2"
     },
+    "whatif": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "db1587d9d80d5cad94fe3d357832675b8ba1d034b17283025bce1d67df870f44",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/whatif-v0.1.0/whatif-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "9bd84ca584fbf6fd8af2f331e86ba53258c6b4d31388236c1a7cad21f64e3dfe",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/whatif-v0.1.0/whatif-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "ffc1ec6",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "wt": {
       "assets": {
         "aarch64-apple-darwin": {
