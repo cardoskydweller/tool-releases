@@ -949,13 +949,13 @@
     "svc": {
       "assets": {
         "any": {
-          "sha256": "a3e3c7282b285933521da84eb6d87e51f858ff6782a4ec90d2ed8848ea4997b8",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/svc-v0.1.0/svc-0.1.0-any"
+          "sha256": "35aae512709a8cf9b66e3c8ece606c133e78d1e4b62f45c0f40f81d180609fb8",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/svc-v0.1.1/svc-0.1.1-any"
         }
       },
-      "commit": "134c17e",
+      "commit": "a571b5f",
       "kind": "script",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     "tools": {
       "assets": {
