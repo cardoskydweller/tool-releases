@@ -852,17 +852,17 @@
     "secretdiff": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "5fe500558ccd363da31f7f81693d7f5b39b1b024d6cb01473a4a16dc38313171",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/secretdiff-v0.2.3/secretdiff-0.2.3-aarch64-apple-darwin"
+          "sha256": "eb39aea893be7a8c54ec35215de180364db8a741504681c0ce83fe708d10f65a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/secretdiff-v0.3.0/secretdiff-0.3.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "943f60b7e8dab32048ca40859fe760936debdf48ae3802cad462fd5f62f40bc7",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/secretdiff-v0.2.3/secretdiff-0.2.3-x86_64-unknown-linux-musl"
+          "sha256": "7621cf95355ec6e79c1bd4f11993d673b2fe2527436edc508972e23b7233d24b",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/secretdiff-v0.3.0/secretdiff-0.3.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "8bdf9e2",
+      "commit": "25191ca",
       "kind": "binary",
-      "version": "0.2.3"
+      "version": "0.3.0"
     },
     "signcheck": {
       "assets": {
