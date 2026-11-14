@@ -486,17 +486,17 @@
     "gopola": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "c5c6351c72b60ce771dc57bedf99a08cd37669b37a7a82c6a86331c100fae5c9",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/gopola-v0.19.1/gopola-0.19.1-aarch64-apple-darwin"
+          "sha256": "9d0d0ed01e01e2fe2a5222edee21ed11bba25b7e9d7859d7b66c832544d6a7de",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/gopola-v0.20.0/gopola-0.20.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "508c3cbe18bd90ee644b89b271531279b5b7f78311bcef166da869577df349db",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/gopola-v0.19.1/gopola-0.19.1-x86_64-unknown-linux-musl"
+          "sha256": "b6bcb0137221ebfa0e3d6664032b90a58dc33e6f942b32e8d887f5ec7ccec34d",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/gopola-v0.20.0/gopola-0.20.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "6e2533d",
+      "commit": "b4ff405",
       "kind": "binary",
-      "version": "0.19.1"
+      "version": "0.20.0"
     },
     "ledger": {
       "assets": {
