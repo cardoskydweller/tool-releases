@@ -882,17 +882,17 @@
     "skillscan": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "27620078e84ee2a150b3a783b5a9daba3fdf7d889ccd37eacb0896cf20496120",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/skillscan-v0.2.0/skillscan-0.2.0-aarch64-apple-darwin"
+          "sha256": "7637880dc6103ad7421e94bfd8a9490f9eae2f54f49282a32e43420bbfcb0e7a",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/skillscan-v0.3.0/skillscan-0.3.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "a6f0a3b6b0aa73cb10222227712a172b5924252e680a95efe1714cf075efcf8a",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/skillscan-v0.2.0/skillscan-0.2.0-x86_64-unknown-linux-musl"
+          "sha256": "2062777be0aeec9698a1c3fe8cff7f3b3f922ea386cf1cd69006ea8695ffd6b7",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/skillscan-v0.3.0/skillscan-0.3.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "4e8abdb",
+      "commit": "16e1886",
       "kind": "binary",
-      "version": "0.2.0"
+      "version": "0.3.0"
     },
     "sqlx-resync": {
       "assets": {
