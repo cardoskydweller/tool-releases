@@ -139,13 +139,13 @@
     "ciquota": {
       "assets": {
         "any": {
-          "sha256": "9ae3e696efeecae6495fd8f8be2934417d8bfd7f5a0990545ea532b8ea109008",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciquota-v0.2.0/ciquota-0.2.0-any"
+          "sha256": "eba5081b725bd063ac18fcb6438c103e1f7ef03e277943a48e75bc6a7f4898cf",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciquota-v0.2.1/ciquota-0.2.1-any"
         }
       },
-      "commit": "756e8f1",
+      "commit": "4ea2d21",
       "kind": "script",
-      "version": "0.2.0"
+      "version": "0.2.1"
     },
     "ciwatch": {
       "assets": {
