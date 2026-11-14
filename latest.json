@@ -270,13 +270,13 @@
     "difflint": {
       "assets": {
         "any": {
-          "sha256": "15c0a24b883b68bb2b53f503a151a8ac50c891ff70a67603b8d0e8c13aae3e71",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/difflint-v0.1.0/difflint-0.1.0-any"
+          "sha256": "c1017a92d1caf261f509ae1c76eca008c6080a9268b564037736090b30c8ffd4",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/difflint-v0.1.1/difflint-0.1.1-any"
         }
       },
-      "commit": "0019ec1",
+      "commit": "c60065e",
       "kind": "script",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     "diskmap": {
       "assets": {
