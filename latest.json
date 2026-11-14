@@ -64,17 +64,17 @@
     "board": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "40f6be5cec66a932cee12b3900926be976ec04765d6c09c087e8089c2ba19b4a",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/board-v0.13.0/board-0.13.0-aarch64-apple-darwin"
+          "sha256": "ae8663d2f987e9b0dc48de5e838956e523796e2fc6f2e3d7bebc194eea6ed1ac",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/board-v0.13.1/board-0.13.1-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "d3dc8b3585c5db38ec8cb3d5e36e0eae774337c9b01d16d97a30edd330de973c",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/board-v0.13.0/board-0.13.0-x86_64-unknown-linux-musl"
+          "sha256": "3352d4dc9b2a5bf01c2d085a7e6e7d9878e9227c5cfe25eae5a8085eb2dbfbf1",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/board-v0.13.1/board-0.13.1-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "8c335f7",
+      "commit": "ee9add0",
       "kind": "binary",
-      "version": "0.13.0"
+      "version": "0.13.1"
     },
     "brazewire": {
       "assets": {
