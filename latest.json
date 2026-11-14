@@ -434,13 +434,13 @@
     "fresh": {
       "assets": {
         "any": {
-          "sha256": "e1f77818e09720225f0710b36a73b9f9244171e6c8131f2aa6d97179d4456738",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fresh-v0.1.0/fresh-0.1.0-any"
+          "sha256": "aabc392c8d1721de69f3f4653db9b52a03b83a54762279140463520a1952b9ee",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/fresh-v0.1.1/fresh-0.1.1-any"
         }
       },
-      "commit": "3b08d8e",
+      "commit": "da74d32",
       "kind": "script",
-      "version": "0.1.0"
+      "version": "0.1.1"
     },
     "funcloop": {
       "assets": {
