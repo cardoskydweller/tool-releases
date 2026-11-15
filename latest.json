@@ -766,17 +766,17 @@
     "rulesmove": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "143e76c782289d7f3940c33dfda2fade9adec6533b44fbf4b2924620ec3dc502",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesmove-v0.1.1/rulesmove-0.1.1-aarch64-apple-darwin"
+          "sha256": "2dea61cadb20269f5de1f6773a996595401b73d01f7ffc6646401bf5f2a0e256",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesmove-v0.2.0/rulesmove-0.2.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "1b168c51f36e3a3c3227f265184234d0aad2dd12c45e85d491224295dc2279ce",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesmove-v0.1.1/rulesmove-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "909a5650abd96fb73fb304174395c08e0f99353000e378c88e0a419a03bf309f",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rulesmove-v0.2.0/rulesmove-0.2.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "0e17c53",
+      "commit": "464faf5",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.2.0"
     },
     "rulesprobe": {
       "assets": {
