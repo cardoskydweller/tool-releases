@@ -322,17 +322,17 @@
     "dupfind": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "fafe67c131897c0acc53c086afe6f439a5a979b7ff52e6281585ecf72e1c7836",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dupfind-v0.1.2/dupfind-0.1.2-aarch64-apple-darwin"
+          "sha256": "1299a38307d5447b24893c1b4e23baca1cebc40f36c605581c1babc929686e77",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dupfind-v0.1.3/dupfind-0.1.3-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "f2daa5e4279e03b37bf7c8653a572a76fa372a45f7569bc0463d44fd17404944",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dupfind-v0.1.2/dupfind-0.1.2-x86_64-unknown-linux-musl"
+          "sha256": "9760a8978acfb5a19e1b6a279c6fa03bd7db9aca75a8d7cc9bdac49b4d5c90ed",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/dupfind-v0.1.3/dupfind-0.1.3-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "6ca872b",
+      "commit": "f02941e",
       "kind": "binary",
-      "version": "0.1.2"
+      "version": "0.1.3"
     },
     "fake-apns": {
       "assets": {
