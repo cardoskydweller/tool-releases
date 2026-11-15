@@ -150,17 +150,17 @@
     "ciwatch": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "3a69ef1b778720d3b92968723e463586dae4dba0212ca3a59cc0fb84c4d2e85a",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciwatch-v0.3.1/ciwatch-0.3.1-aarch64-apple-darwin"
+          "sha256": "fb0d158386253ac8688e3e28777c75bfcfdda330cf46c34a5d2677be9e026688",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciwatch-v0.3.2/ciwatch-0.3.2-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "a9d5f9e426991edeed8ac4bebb0ecc10a6162023d79882d744e65240b8f8e71d",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciwatch-v0.3.1/ciwatch-0.3.1-x86_64-unknown-linux-musl"
+          "sha256": "dbc9015925150929a0b4fd6af5aab978d104f59866197d122ed6cf9166107862",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/ciwatch-v0.3.2/ciwatch-0.3.2-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "d67579a",
+      "commit": "30363a7",
       "kind": "binary",
-      "version": "0.3.1"
+      "version": "0.3.2"
     },
     "contrast": {
       "assets": {
