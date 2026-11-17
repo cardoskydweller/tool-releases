@@ -289,6 +289,21 @@
       "kind": "binary",
       "version": "0.1.2"
     },
+    "docgrep": {
+      "assets": {
+        "aarch64-apple-darwin": {
+          "sha256": "6093f3f8e8f1aa118023ead7594edf6c16bdb68270861871d10443ed11487c6c",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/docgrep-v0.1.0/docgrep-0.1.0-aarch64-apple-darwin"
+        },
+        "x86_64-unknown-linux-musl": {
+          "sha256": "456bc1fdbfc7d394945c8a9d931a0c1ddeae09e03f258e9a70e3e47afc4cba70",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/docgrep-v0.1.0/docgrep-0.1.0-x86_64-unknown-linux-musl"
+        }
+      },
+      "commit": "2504a15",
+      "kind": "binary",
+      "version": "0.1.0"
+    },
     "docpage": {
       "assets": {
         "aarch64-apple-darwin": {
