@@ -1061,17 +1061,17 @@
     "vidwatch": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "3259cc9d8ba8f4e41d69ccee4abfd9cd8a9a0da51a2dcb02fcf781addcbd5737",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/vidwatch-v0.1.0/vidwatch-0.1.0-aarch64-apple-darwin"
+          "sha256": "8f36a886e3e64958a729ebc4b624c1c4eb6c4e5105e247215a3463922d09ef22",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/vidwatch-v0.2.0/vidwatch-0.2.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "ecd69d211213d6c04ecd69a78946cbab0ce7b3ec9872842dc199db5fc519731d",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/vidwatch-v0.1.0/vidwatch-0.1.0-x86_64-unknown-linux-musl"
+          "sha256": "2efda30769dcaadf4c4f15c593f5d6e1a3fd179784b80bae25ceba26583f3f50",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/vidwatch-v0.2.0/vidwatch-0.2.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "23433bc",
+      "commit": "260d7f7",
       "kind": "binary",
-      "version": "0.1.0"
+      "version": "0.2.0"
     },
     "walklint": {
       "assets": {
