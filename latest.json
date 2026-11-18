@@ -180,17 +180,17 @@
     "copseat": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "79ca00d9898ba8aec739025c68fff487059252a33282ef9ca111a2b800115495",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/copseat-v0.1.1/copseat-0.1.1-aarch64-apple-darwin"
+          "sha256": "cffddfbde2ae2cf86bce77a053fb767fa9a31e7d4a0bef1af51a7c377184157b",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/copseat-v0.2.0/copseat-0.2.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "0e97ad1e39dc8d8af872e7eb0f3d4fcd85de7d18f456c1cf537bbfb307bc6bb4",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/copseat-v0.1.1/copseat-0.1.1-x86_64-unknown-linux-musl"
+          "sha256": "2d10db3d7d239a267bce518b36512ccebb8ace8aeb0936dd39633722188eb6e2",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/copseat-v0.2.0/copseat-0.2.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "d69e2cf",
+      "commit": "d20ff8e",
       "kind": "binary",
-      "version": "0.1.1"
+      "version": "0.2.0"
     },
     "cosmoshape": {
       "assets": {
