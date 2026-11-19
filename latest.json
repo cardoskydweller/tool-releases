@@ -695,17 +695,17 @@
     "rcget": {
       "assets": {
         "aarch64-apple-darwin": {
-          "sha256": "44b7bc763dfecc629a1f2b5d2d78db58cacf5c5a8a48c44d6beb11c7a9d88fc1",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rcget-v0.1.3/rcget-0.1.3-aarch64-apple-darwin"
+          "sha256": "97b92d8abb2775b3d6a29fc76b39c4428ee052b42dc90d0e36a39f08e1c090bc",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rcget-v0.2.0/rcget-0.2.0-aarch64-apple-darwin"
         },
         "x86_64-unknown-linux-musl": {
-          "sha256": "fe0b21a8472b9253e18ec915402a5e292eb651c6c5f8cdf974afdb26a567274c",
-          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rcget-v0.1.3/rcget-0.1.3-x86_64-unknown-linux-musl"
+          "sha256": "02239b10e592d8139b273f87132fa5941074b6d243cfb5e21636ae10987da822",
+          "url": "https://github.com/cardoskydweller/tool-releases/releases/download/rcget-v0.2.0/rcget-0.2.0-x86_64-unknown-linux-musl"
         }
       },
-      "commit": "2d03ed0",
+      "commit": "19f155b",
       "kind": "binary",
-      "version": "0.1.3"
+      "version": "0.2.0"
     },
     "redrun": {
       "assets": {
